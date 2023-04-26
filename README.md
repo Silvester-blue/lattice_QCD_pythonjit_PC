@@ -39,4 +39,15 @@ autocor_fun()#Calculation of Autocorrelation Function
 
 static_quark_potential()#Static QCD quark potential
 
+Example
+============
+
+<p align="center">
+    <img src="topol_density_wflow600.png"  width="500"/>
+</p>
+    
+<p align="center">
+    <i>The image of topological charge density on a time slice is obtained by the multi-hit Metropolis algorithm and Wilson flow</i>
+</p>
+
 
