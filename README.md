@@ -1,2 +1,2 @@
-# lattice_QCD_pythonjit_PC
-This lattice QCD program is a python program modified by jit to achieve high readability and calculation speed and it can run on the PC.
+#### [Introduction]
+> This program is written by myself , and it can be used to calculate the configuration of lattice QCD and some physical quantities on a personal computer.The calculation speed of C/C++ program is fast but the program readability is not high, and the readability of python program is strong but the calculation speed is slow.Therefore, this program is a python program modified by jit to achieve high readability and calculation speed.This program is currently part of the machine learning program and is used to generate training data for machine learning. A more complete version may be gradually displayed in the future.
